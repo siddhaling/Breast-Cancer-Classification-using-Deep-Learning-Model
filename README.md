@@ -31,5 +31,10 @@ https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28original%29
 
 ![alt text](https://github.com/SunidhiKashyap/Breast-Cancer-Classification/blob/main/ModelLoss.jpg?raw=true)
 
-Group members: Sunidhi Kashyap (2018A7PS0191U), Sriya Reddy Shabadu (2018A7PS0304U)
-Supervisor: Dr. Siddhaling Urolagin, PhD, Post-Doc, (Machine Learning), dr.siddhaling@gmail.com, www.github.com/siddhaling www.researchreader.com
+Group members: Sunidhi Kashyap, Sriya Reddy Shabadu\
+Supervisor: Dr. Siddhaling Urolagin, \
+PhD, Post-Doc, (Machine Learning), \
+dr.siddhaling@gmail.com, \
+www.github.com/siddhaling
+
+www.researchreader.com
